@@ -1,0 +1,17 @@
+/************               ****************
+************* MEDIA QUERIES ****************/
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
+	#home-post-wrap {
+	height: auto !important;	
+	}
+}
+@media all and (max-width : 480px){
+	#home-post-wrap {
+	height: auto !important;	
+	}
+}
+@media all and (max-width : 320px) {
+	#home-post-wrap {
+	height: auto !important;	
+	}
+}
